@@ -117,9 +117,6 @@ Simulated-Annealing/
 │   ├── metropolis_vs_simulated_annealing.R
 │   └── hyperparameter_tuning_comparison.R
 │
-├── results/
-│   └── figures and experiment outputs
-│
 └── report/
     └── simulated_annealing_report.pdf
 
